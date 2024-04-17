@@ -1,0 +1,23 @@
+li{
+    color: black;
+}
+
+.Color{
+    color: red;
+}
+
+#Color-purple{
+    color: purple;
+}
+
+li[value="4"]{
+    color: lightblue;
+}
+
+li[value="5"]{
+    color: orange;
+}
+
+*{
+    font-weight: normal;
+}
